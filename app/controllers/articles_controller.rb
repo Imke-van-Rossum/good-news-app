@@ -8,4 +8,5 @@ class ArticlesController < ApplicationController
   def create
     # Xavier API scraping Data
   end
+
 end
